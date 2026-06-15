@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Привет, я Кирилл
 
-<!--
-**k1rillbobrov/k1rillbobrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎮 Пишу на Pawn для GTA San Andreas
+- 📱 Работаю на проекте Mordor RolePlay | Мобильная игра
+- 🚀 Занимаюсь разработкой игровых систем и серверов
+- 📚 Постоянно развиваюсь в сфере GameDev
+- 🤝 Открыт для общения и сотрудничества
 
-Here are some ideas to get you started:
+## 🛠️ Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pawn](https://img.shields.io/badge/Pawn-Developer-blue)
+![GTA SA](https://img.shields.io/badge/GTA_SA-Development-blue)
+![Mordor RP](https://img.shields.io/badge/Mordor-RolePlay-blue)
+![GameDev](https://img.shields.io/badge/GameDev-Developer-blue)
+
+## 📬 Связь
+
+Telegram: **@https_tgm**
